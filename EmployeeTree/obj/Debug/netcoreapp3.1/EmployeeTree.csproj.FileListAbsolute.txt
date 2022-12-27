@@ -1,0 +1,14 @@
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\bin\Debug\netcoreapp3.1\EmployeeTree.exe
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\bin\Debug\netcoreapp3.1\EmployeeTree.deps.json
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\bin\Debug\netcoreapp3.1\EmployeeTree.runtimeconfig.json
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\bin\Debug\netcoreapp3.1\EmployeeTree.runtimeconfig.dev.json
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\bin\Debug\netcoreapp3.1\EmployeeTree.dll
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\bin\Debug\netcoreapp3.1\EmployeeTree.pdb
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.csproj.AssemblyReference.cache
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.AssemblyInfoInputs.cache
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.AssemblyInfo.cs
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.csproj.CoreCompileInputs.cache
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.dll
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.pdb
+C:\Users\Tushar.borchate\source\repos\EmployeeTree\EmployeeTree\obj\Debug\netcoreapp3.1\EmployeeTree.genruntimeconfig.cache
